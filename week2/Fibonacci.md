@@ -55,7 +55,7 @@ dp[2] = 1
 
 def fib(n):
     if dp[n] == 0:
-        dp[n] = fib(n-1) + fib(n-2)
+        dp[n] = dp[n-1]+dp[n-2]
     return dp[n]
 ```
 단어 그대로 메모해두었다가 호출이 있을때마다 그대로 불러오는 것으로
