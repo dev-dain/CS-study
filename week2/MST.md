@@ -1,5 +1,5 @@
 # 최소 신장 트리 (MST, Minimum Spanning Tree)
-
+작성자: 장수현
 ## Spanning Tree 란?
 ```
 그래프 내의 모든 정점을 포함하는 트리, 그래프의 최소 연결 부분 그래프
