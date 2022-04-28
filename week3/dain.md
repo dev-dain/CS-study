@@ -1,6 +1,6 @@
 # DeadLock, RDBMS vs NoSQL, SQL Injection
 
-### **작성자 강수지** <br><br>
+### **작성자 김다인** <br><br>
 
 ✔ 교착상태 해결을 위한 3가지 방안과 방안별로 짧은 예시를 들어주세요.
 
