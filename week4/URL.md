@@ -1,4 +1,5 @@
 # URL에 https://www.naver.com 을 쳤을 때 일어나는 일
+작성자: 장수현
 
 ## in 브라우저
 

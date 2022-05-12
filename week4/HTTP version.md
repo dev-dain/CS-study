@@ -1,4 +1,5 @@
 # HTTP 1.1 / 2.0 / 3.0
+작성자: 장수현
 
 ## HTTP 1.1
 ### Pipelining
