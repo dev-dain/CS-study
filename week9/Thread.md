@@ -106,4 +106,3 @@ PC(Program Counter) 값은 스레드가 명령어를 어디까지 수행했는�
 * [프로세스 & 스레드](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20vs%20Thread.md)
 * [[OS] Race Condition](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Race%20Condition.md)
 * [은행가 (Banker's) 알고리즘](http://blog.skby.net/%EC%9D%80%ED%96%89%EA%B0%80-bankers-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
->>>>>>> 4f187763ff55beb4950dc486960de9a091f5df0b
